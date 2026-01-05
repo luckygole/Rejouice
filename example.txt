@@ -1,0 +1,12 @@
+Rejouice Website Project
+
+This project is a frontend clone inspired by the Rejouice website.
+It focuses on smooth animations, clean UI design, and interactive user experience.
+
+Tech Used:
+HTML
+CSS
+JavaScript
+GSAP animations
+
+Developer: Lucky Gole
