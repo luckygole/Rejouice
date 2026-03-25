@@ -126,5 +126,5 @@ If you like this project, please ⭐ the repository and share it!
 
 ---
 
-💡 *Designed & Developed by Laksh Gole*
+💡 *Designed & Developed by Lucky Gole*
 
